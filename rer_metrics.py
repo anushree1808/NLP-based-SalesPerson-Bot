@@ -1,9 +1,3 @@
-'''
-ner_metrics.py
-Author: Anantharaman Narayana Iyer
-27 Nov 2014
-'''
-
 class rer_metrics(object):
     def __init__(self, expected, predicted):
         self.expected = expected #list of list
