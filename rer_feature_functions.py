@@ -1,12 +1,4 @@
-'''
-feature_functions.py
-Implements the feature generation mechanism
-Author: Anantharaman Narayana Iyer
-Date: 21 Nov 2014
 
-6th Dec: Org gazeteer added
-7th Dec: 
-'''
 from nltk import sent_tokenize, word_tokenize
 import nltk
 import json
