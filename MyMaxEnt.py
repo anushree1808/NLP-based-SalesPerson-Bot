@@ -1,9 +1,3 @@
-'''
-MyMaxEnt.py
-MaxEnt Classifier
-Author: Anantharaman Narayana Iyer
-Date: 21 Nov 2014
-'''
 import json
 import numpy
 import math
