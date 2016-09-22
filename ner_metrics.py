@@ -1,8 +1,4 @@
-'''
-ner_metrics.py
-Author: Anantharaman Narayana Iyer
-27 Nov 2014
-'''
+
 
 class NerMetrics(object):
     def __init__(self, tagged_sents, predicted):
